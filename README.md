@@ -34,5 +34,5 @@ We welcome contributions from the community! If you have any suggestions or woul
 5. Open a pull request.
 
 ## License
-SACVision is released under the MIT License. See the [LICENSE](#) file for more details.
+SACVision is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
